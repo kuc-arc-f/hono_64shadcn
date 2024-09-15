@@ -4,13 +4,13 @@
 
  Author  : Kouji Nakashima / kuc-arc-f.com
 
- date    : 2024/09/15
+ date    : 2024/09/14
 
- update  :
+ update  : 2024/09/15
 ***
 ### Summary
 
-hono + shadcn/ui , example
+hono 4 + shadcn/ui , example
 
 ***
 ### build

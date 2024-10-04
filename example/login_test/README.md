@@ -24,6 +24,10 @@ VITE_AUTH_USER_ID=1
 
 ```
 
+***
+### blog
+
+https://knakatech-blog.pages.dev/posts/167
 
 ***
 # License
